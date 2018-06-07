@@ -7,4 +7,5 @@ Criei um for para pegar as posições do array, com um if para multiplicar as po
 Criei um else para guardar as posições ímpares e transformar em números;
 Criei uma variável para calcular o total, com um for para fazer um loop no array e somar os caracteres, criei um if para verificar se o resto da divisão por dez for multiplo de dez, retornando "cartão válido", e um else retornando "cartão inválido".
 
-![FluxogramaDoCartaoDeCredito](FluxogramadoCartaodeCredito.JPEG)
+![FluxogramaDoCartaoDeCredito](FluxogramadoCartaodeCredito.jpeg)
+
